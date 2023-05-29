@@ -1,0 +1,9 @@
+{
+  "downPayment":{
+    "firstPoint": "$500,000 or less – Your minimum down payment is 5%",
+    "secondPoint": "Between $500,000 and $999,999 – Your minimum down payment is 5% of the first $500,000 PLUS 10% of the remaining portion of the home price",
+    "thirdPoint": "$1,000,000 or more – Your minimum down payment is 20%"
+  },
+  "cmhcInsurance" : "Mortgage default insurance, commonly referred to as CMHC insurance, protects the lender in the case the borrower defaults on the mortgage. Mortgage default insurance is required on all mortgages with down payments of less than 20%. Mortgage default insurance is calculated as a percentage applied to your mortgage amount."
+
+}
