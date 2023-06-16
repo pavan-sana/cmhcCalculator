@@ -5,6 +5,7 @@ module.exports = defineConfig({
 	viewportHeight: 1080,
 	numTestsKeptInMemory: 0,
 	defaultCommandTimeout: 5000,
+	projectId: "ozgjqw",
 	video: false,
 	retries: {
 		runMode: 0,
